@@ -1,0 +1,17 @@
+Risk: promotion
+Command: npm run check -- promotion
+Started: 2026-10-28T06:07:47.046Z
+reference-402x600 http://127.0.0.1:4173/reference/
+Started: 2026-10-28T06:07:47.153Z
+PASS
+Finished: 2026-10-28T06:07:47.382Z
+
+release-402x600 http://127.0.0.1:4173/release/
+Started: 2026-10-28T06:07:47.382Z
+FAIL
+AssertionError [ERR_ASSERTION]: 402x600: Add to cart clipped by viewport (top=578, bottom=622, viewport height=600)
+    at check (/Users/r0s0a5r/IdeaProjects/oms-vega-e2e-automationframework/pre-timer-neutral/submission/Artifact/check.cjs:24:10)
+    at async main (/Users/r0s0a5r/IdeaProjects/oms-vega-e2e-automationframework/pre-timer-neutral/runner.cjs:38:11)
+Finished: 2026-10-28T06:07:47.494Z
+
+Finished: 2026-10-28T06:07:47.511Z

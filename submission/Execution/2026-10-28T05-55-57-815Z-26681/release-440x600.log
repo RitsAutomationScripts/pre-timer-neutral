@@ -1,0 +1,7 @@
+release-440x600 http://127.0.0.1:4173/release/
+Started: 2026-10-28T05:55:58.874Z
+FAIL
+AssertionError [ERR_ASSERTION]: 440x600: Add to cart clipped by viewport (top=578, bottom=622, viewport height=600)
+    at check (/Users/r0s0a5r/IdeaProjects/oms-vega-e2e-automationframework/pre-timer-neutral/submission/Artifact/check.cjs:24:10)
+    at async main (/Users/r0s0a5r/IdeaProjects/oms-vega-e2e-automationframework/pre-timer-neutral/runner.cjs:38:11)
+Finished: 2026-10-28T05:55:59.002Z
