@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # pre-timer-neutral1
 
-=======
 # pre-timer-neutral
 
 Playwright (Chromium) setup :automate one pre-release check for the fictional Cedar ecommerce store. The chosen risk is **Mobile** (sticky Add to cart control). All builds and data are synthetic; no live site, account or order is involved.
