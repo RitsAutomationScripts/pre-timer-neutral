@@ -1,0 +1,9 @@
+reference-402x600 http://127.0.0.1:4173/reference/
+Started: 2026-10-28T06:07:23.957Z
+FAIL
+page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/reference/
+Call log:
+[2m  - navigating to "http://127.0.0.1:4173/reference/", waiting until "load"[22m
+
+    at main (/Users/r0s0a5r/IdeaProjects/oms-vega-e2e-automationframework/pre-timer-neutral/runner.cjs:37:22)
+Finished: 2026-10-28T06:07:24.158Z

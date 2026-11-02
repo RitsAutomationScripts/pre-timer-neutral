@@ -1,0 +1,11 @@
+{
+  "name": "qa-neutral-setup",
+  "version": "1.2.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "check": "node runner.cjs",
+    "preflight": "node preflight.cjs"
+  },
+  "devDependencies": { "playwright": "1.62.1" }
+}
